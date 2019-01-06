@@ -1,0 +1,149 @@
+{
+  "_from": "@types/ramda",
+  "_id": "@types/ramda@0.25.46",
+  "_inBundle": false,
+  "_integrity": "sha512-UiyHmzWu0KftAWZXfiUvwToVTHGhaG2fnWVckGwaic4By6YyGqtOpq7m8R3HLrpEsYH0AnRQjtXhdL8igmCuDw==",
+  "_location": "/@types/ramda",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/ramda",
+    "name": "@types/ramda",
+    "escapedName": "@types%2framda",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/ramda/-/ramda-0.25.46.tgz",
+  "_shasum": "8399a35eb117f4a821deb9c4cfecc9b276fb7daf",
+  "_spec": "@types/ramda",
+  "_where": "C:\\Users\\micha\\Development\\js\\ramda",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Erwin Poeze",
+      "url": "https://github.com/donnut"
+    },
+    {
+      "name": "Tycho Grouwstra",
+      "url": "https://github.com/tycho01"
+    },
+    {
+      "name": "Matt DeKrey",
+      "url": "https://github.com/mdekrey"
+    },
+    {
+      "name": "Matt Dziuban",
+      "url": "https://github.com/mrdziuban"
+    },
+    {
+      "name": "Stephen King",
+      "url": "https://github.com/sbking"
+    },
+    {
+      "name": "Alejandro Fernandez Haro",
+      "url": "https://github.com/afharo"
+    },
+    {
+      "name": "Vítor Castro",
+      "url": "https://github.com/teves-castro"
+    },
+    {
+      "name": "Jordan Quagliatini",
+      "url": "https://github.com/1M0reBug"
+    },
+    {
+      "name": "Simon Højberg",
+      "url": "https://github.com/hojberg"
+    },
+    {
+      "name": "Samson Keung",
+      "url": "https://github.com/samsonkeung"
+    },
+    {
+      "name": "Angelo Ocana",
+      "url": "https://github.com/angeloocana"
+    },
+    {
+      "name": "Rayner Pupo",
+      "url": "https://github.com/raynerd"
+    },
+    {
+      "name": "Miika Hänninen",
+      "url": "https://github.com/googol"
+    },
+    {
+      "name": "Nikita Moshensky",
+      "url": "https://github.com/moshensky"
+    },
+    {
+      "name": "Ethan Resnick",
+      "url": "https://github.com/ethanresnick"
+    },
+    {
+      "name": "Jack Leigh",
+      "url": "https://github.com/leighman"
+    },
+    {
+      "name": "Keagan McClelland",
+      "url": "https://github.com/CaptJakk"
+    },
+    {
+      "name": "Tomas Szabo",
+      "url": "https://github.com/deftomat"
+    },
+    {
+      "name": "Bonggyun Lee",
+      "url": "https://github.com/deptno"
+    },
+    {
+      "name": "Maciek Blim",
+      "url": "https://github.com/blimusiek"
+    },
+    {
+      "name": "Marcin Biernat",
+      "url": "https://github.com/biern"
+    },
+    {
+      "name": "Rayhaneh Banyassady",
+      "url": "https://github.com/rayhaneh"
+    },
+    {
+      "name": "Ryan McCuaig",
+      "url": "https://github.com/rgm"
+    },
+    {
+      "name": "Drew Wyatt",
+      "url": "https://github.com/drewwyatt"
+    },
+    {
+      "name": "John Ottenlips",
+      "url": "https://github.com/jottenlips"
+    }
+  ],
+  "dependencies": {},
+  "deprecated": false,
+  "description": "TypeScript definitions for ramda",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/ramda",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index",
+  "typesPublisherContentHash": "5b5cf3a076ead65507d7fafa3332cd28fe123348cd821953b70e8f627d0369d3",
+  "version": "0.25.46"
+}
